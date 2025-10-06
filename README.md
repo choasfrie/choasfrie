@@ -1,11 +1,14 @@
 ## Hello, my name is Alberto Manser
-Im a passionate young Computer science student with a focus on backend development and sufficient skills in various other coding and scripting languages.
+- Im a passionate young Computer science student with a focus on backend development and sufficient skills in various other coding and scripting languages.
+- Intern at dsm-firmenich.
+- Currently working on the following [Project](https://github.com/choasfrie/Portfolio).
 ## My Techstack:
+- Languages: C#, Python, HTML, CSS, Javascript, PHP, Java, Powershell
+- Frameworks: .NET
+- Tools: Windows, Git
+- Platforms: Visual Studio Code & Professional, Unity, Microsoft SSMS
+## Github Stats:
 
-
-I'm currently employed at dsm-firmenich as an Intern in the Digital & Tech department.
-
-Im also working on a personal Portfolio webpage which you can find in the [Portfolio](https://github.com/choasfrie/Portfolio) repo.
 <!--
 **choasfrie/choasfrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
