@@ -1,5 +1,5 @@
 # 👋Hello, i'm Alberto Manser
-Im a passionate young Computer science student with a focus on backend development and sufficient skills in various other coding and scripting languages.<br>🏢Intern at dsm-firmenich.<br>🚀Currently working on the following [Project](https://github.com/choasfrie/Portfolio).
+Im a passionate young Computer science student with a focus on backend development and skills in various other coding and scripting languages.<br>🏢Intern at dsm-firmenich.<br>🚀Currently working on the following [Project](https://github.com/choasfrie/Portfolio).
 
 
 # 💻 Tech Stack:
