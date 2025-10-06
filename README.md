@@ -8,6 +8,7 @@
 - Tools: Windows, Git
 - Platforms: Visual Studio Code & Professional, Unity, Microsoft SSMS
 ## 📊Github Stats:
+[![choasfrie's GitHub stats](https://github-readme-stats.vercel.app/api?username=choasfrie)](https://github.com/choasfrie/choasfrie)
 
 <!--
 **choasfrie/choasfrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
