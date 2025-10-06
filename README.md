@@ -1,5 +1,7 @@
 ## Hello, my name is Alberto Manser
-Im a motivated young Developer mainly versed in c# and fullstack web developement.
+Im a passionate young Computer science student with a focus on backend development and sufficient skills in various other coding and scripting languages.
+## My Techstack:
+
 
 I'm currently employed at dsm-firmenich as an Intern in the Digital & Tech department.
 
