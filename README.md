@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hello, my name is Alberto Manser
+Im a motivated young Developer mainly versed in c# and fullstack web developement.
 
+I'm currently employed at dsm-firmenich as an Intern in the Digital & Tech department.
+
+Im also working on a personal Portfolio webpage which you can find in the [Portfolio](https://github.com/choasfrie/Portfolio) repo.
 <!--
 **choasfrie/choasfrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
