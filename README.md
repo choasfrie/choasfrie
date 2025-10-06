@@ -1,13 +1,13 @@
-## 👋Hello, my name is Alberto Manser
-- Im a passionate young Computer science student with a focus on backend development and sufficient skills in various other coding and scripting languages.
+# 👋Hello, my name is Alberto Manser
+### Im a passionate young Computer science student with a focus on backend development and sufficient skills in various other coding and scripting languages.
 - 🏢Intern at dsm-firmenich.
 - 🚀Currently working on the following [Project](https://github.com/choasfrie/Portfolio).
-## 💻My Techstack:
+# 💻My Techstack:
 - Languages: C#, Python, HTML, CSS, Javascript, PHP, Java, Powershell, SQL
 - Frameworks: .NET
 - Tools: Windows, Git, AWS, Docker, MongoDB
 - Platforms: Visual Studio Code & Enterprise, Unity, Microsoft SSMS
-## 📊Github Stats:
+# 📊Github Stats:
 [![choasfrie's GitHub stats](https://github-readme-stats.vercel.app/api?username=choasfrie)](https://github.com/choasfrie/choasfrie)
 [![choasfrie's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=choasfrie&theme=default&show_icons=true&hide_border=true&layout=compact)](https://github.com/choasfrie/choasfrie)
 [![choasfrie's streak](https://streak-stats.demolab.com?user=choasfrie&theme=default&hide_border=true)](https://github.com/choasfrie/choasfrie)
