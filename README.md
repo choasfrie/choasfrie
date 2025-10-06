@@ -3,10 +3,10 @@
 - 🏢Intern at dsm-firmenich.
 - 🚀Currently working on the following [Project](https://github.com/choasfrie/Portfolio).
 ## 💻My Techstack:
-- Languages: C#, Python, HTML, CSS, Javascript, PHP, Java, Powershell
+- Languages: C#, Python, HTML, CSS, Javascript, PHP, Java, Powershell, SQL
 - Frameworks: .NET
-- Tools: Windows, Git
-- Platforms: Visual Studio Code & Professional, Unity, Microsoft SSMS
+- Tools: Windows, Git, AWS, Docker, MongoDB
+- Platforms: Visual Studio Code & Enterprise, Unity, Microsoft SSMS
 ## 📊Github Stats:
 [![choasfrie's GitHub stats](https://github-readme-stats.vercel.app/api?username=choasfrie)](https://github.com/choasfrie/choasfrie)
 [![choasfrie's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=choasfrie&theme=default&show_icons=true&hide_border=true&layout=compact)](https://github.com/choasfrie/choasfrie)
