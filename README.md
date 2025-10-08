@@ -2,7 +2,7 @@
 I'm a passionate young computer science student with a focus on backend development and skills in various other coding and scripting languages.<br>🏢Intern at [dsm-firmenich](https://www.dsm-firmenich.com/en/home.html).<br>🚀Currently working on the following [Project](https://github.com/choasfrie/Portfolio).
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Alberto-Manser](https://www.linkedin.com/in/alberto-manser-785299295/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-manser-785299295/)
 
 
 # 💻 Tech Stack:
